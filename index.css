@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://tr.rbxcdn.com/180DAY-29dd96ac927fdb95008edfd74d4e1a73/768/432/Image/Webp/noFilter);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+header, b {
+    text-align: center;
+    font-size: 45px;
+}
+main, h1 {
+    text-align: center;
+}
+
+p {
+    color: white;
+}
+
+.st1 {
+    font-size: 30px;
+}
+.list1 {
+    font-size: 20px;
+    text-align: left;
+}
+.list2 {
+    font-size: 20px;
+    text-align: center;
+    margin: 65px;
+}
+.list3 {
+    font-size: 20px;
+    text-align: right;
+    margin: 65px;
+}
+.list4 {
+    font-size: 20px;
+    text-align: right;
+}
+.icon-container {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 1000;
+}
